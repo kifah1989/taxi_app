@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "812546129313",
+    "firebase_url": "https://fit-aleph-192219.firebaseio.com",
+    "project_id": "fit-aleph-192219",
+    "storage_bucket": "fit-aleph-192219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812546129313:android:f5f046bf25585765",
+        "android_client_info": {
+          "package_name": "com.andary.kifah.taxirequest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812546129313-s2qsn2go3j3n8fj16c4qc3pr03flgkbs.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "812546129313-7vuhijs254rs38b6gfdmvpt9dq0mgkqp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "812546129313-f1uak97q1vujbvu64vjmnackrmmr3a3g.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "812546129313-drqec643hi4udrrttlfebimd7k4ajv9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andary.kifah.taxirequest",
+            "certificate_hash": "bab7c42434a386c75815563ab32920ea336d7bd7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaEXOG4iVQoggwmh0Zb6cIHysxhpgaF30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
